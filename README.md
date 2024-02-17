@@ -1,3 +1,4 @@
+# Check permission
 # Exercise #5: Watch Party
 
 10 points
